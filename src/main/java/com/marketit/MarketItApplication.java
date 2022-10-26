@@ -9,8 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MarketItApplication {
 
 	public static void main(String[] args) {
-		log.info("Welcome ~~~~~~~~~~~~~ ");
+		log.info("running~~~~~~");
 		SpringApplication.run(MarketItApplication.class, args);
 	}
-
 }
