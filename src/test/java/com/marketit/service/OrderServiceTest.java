@@ -5,7 +5,6 @@ import com.marketit.model.entity.Order;
 import com.marketit.model.entity.OrderStatus;
 import com.marketit.repository.ItemRepository;
 import com.marketit.repository.OrderRepository;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
